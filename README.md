@@ -1,6 +1,8 @@
 # Hi, I'm Adilson 👋
 
-**Systems Engineer | Integration Architect | IoT Developer**
+**Low-Latency C++ Developer | Electronic Trading Systems Engineer
+Expert in multithreading, real-time systems, and high-performance computing
+C++ • Java • Assembly • Systems Programming**
 
 Building production systems from firmware to cloud since 1993.
 
