@@ -153,7 +153,6 @@ Complete IoT platform from ESP32 firmware to cloud dashboards
 
 ## 📫 Let's Connect
 
-**Email**: adilson@dias.net.au  
 **Website**: [dias.net.au](https://dias.net.au)  
 **Company**: [api-led.com.au](https://api-led.com.au)  
 **LinkedIn**: [linkedin.com/in/adilsondias](https://linkedin.com/in/adilsondias)  
