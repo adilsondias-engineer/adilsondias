@@ -91,7 +91,7 @@ FPGA Hardware (VHDL) → C++ Gateway → Multi-Protocol Distribution
 - **C++:** Since 1993 (32 years) - 200+ books collected, self-taught
 - **Java:** Since 2000 (24 years) - J2EE, enterprise applications
 - **Python:** 10+ years - automation, data processing, testing
-- **VHDL:** 2025 (6 months intensive) - 300+ hours, 14 projects
+- **VHDL:** 2025 (1 month intensive) - 300+ hours, 14 projects
 - **C#:** DT Pro trading plugins (2008), .NET applications
 
 ### FPGA & Hardware
