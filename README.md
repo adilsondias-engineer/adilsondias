@@ -1,245 +1,238 @@
-# Hi, I'm Adilson 👋
+# Adilson Dias - Senior Integration Architect & FPGA Systems Engineer
 
-**Trading Systems Engineer | Low-Latency C++ & FPGA Developer**  
-**Specializing in high-frequency trading systems, hardware acceleration, and real-time data processing**  
-**C++ • VHDL • Java • Assembly • Systems Programming**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/adilsondias/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/adilsondias-engineer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FPGA%20Trading%20Systems-brightgreen)](https://github.com/adilsondias-engineer/fpga-trading-systems)
 
-32 years building production systems from firmware to cloud. 5 years actively trading S&P 500 and Nasdaq futures.
+## 👋 About Me
 
----
+Senior Integration Architect with **32 years of IT experience** (since 1993), combining deep technical expertise with active trading experience. Currently transitioning from MuleSoft enterprise integration to trading systems development.
 
-## 🚀 About Me
+**The Journey:**
+- **1993:** Started as self-taught programmer at age 19 (Military Police, Ponte Nova, Brazil)
+- **1999-2001:** Published 10 technical books (Delphi, C++ Builder, MySQL, Linux)
+- **2008:** Active trading during financial crisis (DT Pro platform, built C# plugins)
+- **2025:** Completed intensive FPGA trading systems portfolio (300+ hours, 14 projects)
 
-In 1993, as a 19-year-old military police officer, I saw a green screen PC in a government office and decided: "I'm going to learn this." With no internet and no teachers, I ordered books and taught myself. I bought my first computer—an i486—and installed DOS, Windows, and later Linux from scratch.
+**Current:** Senior Integration Architect @ Swinburne University (contract through May 2026)  
+**Founded:** API-led Pty Ltd (2013) - Integration consulting business
 
-Three decades later, that same curiosity drives my current focus: **building low-latency trading systems** that combine hardware acceleration with software optimization.
+## 🚀 Featured Project: FPGA Trading Systems
 
-**What makes my background unique**: I'm not just an engineer learning about trading, or a trader learning to code. I've spent **5 years actively trading S&P 500 and Nasdaq futures** while maintaining 32 years of systems engineering experience. I understand market microstructure, order flow, and latency requirements from both sides—the technical implementation AND the trading desk perspective.
+**Complete low-latency market data processing system** demonstrating production-grade architecture from FPGA hardware to multi-platform applications.
 
-That foundation led to:
+**Repository:** [github.com/adilsondias-engineer/fpga-trading-systems](https://github.com/adilsondias-engineer/fpga-trading-systems)
 
-- 📚 Publishing 10 technical books
-- 👨‍🏫 Training Java instructors at Sun Microsystems  
-- 🏗️ Building production systems processing 26M+ data points with 99.8% uptime
-- 🏢 Founded API-Led Pty Ltd in 2013
-- 📈 5 years active futures trading (S&P 500, Nasdaq)
-
----
-
-## 💼 Current Focus: Trading Systems Development
-
-**FPGA Hardware Acceleration**
-- Mastering Xilinx FPGA development for low-latency market data processing
-- Completed 5 projects: binary counters, debouncing, UART protocols, Ethernet MII receivers
-- Building toward market data parsers (ITCH/OUCH protocols) and hardware order books
-- Repository: [fpga-trading-systems](https://github.com/adilsondias-engineer/fpga-trading-systems)
-
-**Low-Latency C++ Development**
-- Multithreading, lock-free data structures, memory management
-- Real-time systems with deterministic performance
-- Protocol parsing and binary message handling
-- Clock cycle awareness and cache optimization
-
-**Trading Systems Architecture**
-- Market data feed handlers
-- Order management systems
-- Risk management and position tracking
-- Network optimization and kernel bypass techniques
-
----
-
-## 🛠️ Tech Stack
-
-**Core Languages (Trading Systems)**  
-![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![VHDL](https://img.shields.io/badge/-VHDL-543978?style=flat-square)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**FPGA & Embedded Systems**  
-![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square)
-![Vivado](https://img.shields.io/badge/-Vivado-E01F27?style=flat-square)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat-square&logo=espressif&logoColor=white)
-![STM32](https://img.shields.io/badge/-STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
-
-**Networking & Protocols**  
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-0078D4?style=flat-square)
-![UDP](https://img.shields.io/badge/-UDP-0078D4?style=flat-square)
-![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
-
-**Infrastructure & DevOps**  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Databases & Messaging**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-
----
-
-## 🏆 Highlights
+### Architecture Overview
 
 ```
-32 Years      │ Professional Engineering Experience
-5 Years       │ Active Futures Trading (S&P 500, Nasdaq)
-10 Books      │ Published Technical Books (1999-2001)
-33 Certs      │ Professional Certifications
-26M+          │ Data Points Processed (Production Systems)
-99.8%         │ Production Uptime (3+ Years)
-5 Projects    │ FPGA Portfolio (Trading-Focused)
+FPGA Hardware (VHDL) → C++ Gateway → Multi-Protocol Distribution
+         ↓                  ↓              ↓       ↓        ↓
+   Ethernet PHY        UDP Listener    TCP:9999  MQTT   Kafka
+   MII Interface       BBO Parser      Desktop  Mobile  Analytics
+   ITCH Parser                          Java    .NET   (Reserved)
+   Order Book                          ESP32    MAUI
 ```
 
+### Key Achievements
+
+**Hardware Layer (FPGA - Projects 6-8, 13):**
+- ✅ UDP/IP Network Stack (< 2 μs wire-to-parsed, 100% reliability)
+- ✅ NASDAQ ITCH 5.0 Parser (9 message types, symbol filtering)
+- ✅ Hardware Order Book (120-170 ns order processing, 8 symbols)
+- ✅ UDP BBO Transmitter (real-time distribution via MII TX)
+
+**Application Layer (Projects 9-12, 14):**
+- ✅ C++ Gateway UART (10.67 μs avg) → UDP (2.09 μs) = 5.1x faster
+- ✅ RT Optimization (SCHED_FIFO + CPU isolation): 0.46 μs optimal
+- ✅ Java Desktop Terminal (JavaFX with real-time charts)
+- ✅ ESP32 IoT Display (Arduino, TFT, MQTT feed)
+- ✅ Mobile App (.NET MAUI for Android/iOS/Windows)
+
+### Performance Metrics (Hardware-Verified)
+
+| Component | Latency | Validation |
+|-----------|---------|------------|
+| FPGA Pipeline | < 5 μs | Wire-to-BBO complete |
+| Gateway (UART) | 10.67 μs | Baseline measurement |
+| Gateway (UDP) | 2.09 μs | 5.1x improvement |
+| Gateway (RT) | 0.46 μs | Multi-core isolation |
+
+**Test Data:** Validated with authentic NASDAQ ITCH 5.0 data
+- Source: 12302019.NASDAQ_ITCH50 (Dec 30, 2019 trading day)
+- Dataset: 250M messages total, 50M in MySQL
+- Test subset: 80,000 messages
+- Symbols: AAPL, TSLA, SPY, QQQ, GOOGL, MSFT, AMZN, NVDA
+- Result: 600+ msg/sec sustained, 100% accuracy
+
+### Production Patterns Demonstrated
+
+**FPGA Expertise:**
+- Clock domain crossing (gray code FIFO synchronization)
+- BRAM inference using Xilinx templates
+- Multi-stage FSM pipelines for deterministic latency
+- XDC timing constraints and closure
+- Mixed-language integration (SystemVerilog/VHDL)
+
+**Real-Time Optimization:**
+- CPU isolation (GRUB: isolcpus, nohz_full, rcu_nocbs)
+- SCHED_FIFO scheduling experiments
+- Finding: CFS with 4 isolated cores optimal for ~400 msg/sec workload
+
+**Systems Engineering:**
+- Multi-threaded C++ (Boost.Asio async I/O)
+- Binary protocol design (big-endian, fixed-point, UDP multicast)
+- Multi-protocol distribution (TCP/MQTT/Kafka)
+- Cross-platform development (Desktop/Mobile/IoT)
+
+## 💻 Technical Background
+
+### Languages (Actual Experience)
+- **C++:** Since 1993 (32 years) - 200+ books collected, self-taught
+- **Java:** Since 2000 (24 years) - J2EE, enterprise applications
+- **Python:** 10+ years - automation, data processing, testing
+- **VHDL:** 2025 (6 months intensive) - 300+ hours, 14 projects
+- **C#:** DT Pro trading plugins (2008), .NET applications
+
+### FPGA & Hardware
+- **Platform:** Xilinx Arty A7-100T (Artix-7 FPGA)
+- **Tools:** AMD Vivado Design Suite, ILA debugging
+- **Protocols:** MII Ethernet, NASDAQ ITCH 5.0, UDP/IP
+- **Skills:** CDC patterns, BRAM inference, timing closure
+
+### Trading Background
+- **Started:** 2002-2003 (Brazil market, phone-based)
+- **Active Trading:** 2008-present (17 years)
+- **Markets:** S&P 500, Nasdaq futures
+- **Experience:** DT Pro platform, built C# trading plugins
+- **2008 Crisis:** Real money trading during volatile markets
+- **Domain Knowledge:** Order flow, market microstructure, spread dynamics
+
+### Professional Certifications
+- MuleSoft Platform Architect
+- Salesforce Integration Architect  
+- **Total:** 33 professional certifications
+
+## 📚 Published Works
+
+**Technical Author** - 10 books published 1999-2001 (Brazilian Portuguese)  
+Editora Ciência Moderna
+
+1. **Delphi para todas as versões** (1999) ISBN 85-7393-062-4
+2. **Delphi Banco de Dados com SQL** (2000) ISBN 85-7393-073-X
+3. **Dicas de Delphi** (2000) ISBN 85-7393-079-9
+4. **WAP - A internet sem fios** (2000) ISBN 85-7393-093-4
+5. **Desenvolvendo com Borland C++ Builder** (2000) ISBN 85-7393-095-0
+6. **Desvendando WMLScript** (2000) ISBN 85-7393-101-9
+7. **Imprimindo em Delphi** (2000) ISBN 85-7393-098-5
+8. **Delphi & MySQL** (2000) ISBN 8573931094
+9. **Banco de Dados com C++ Builder** (2001) ISBN 85-7393-120-5
+10. **Kylix: A ferramenta Linux para programadores** (2001) ISBN 8573931426
+
+## 🎓 Education & Background
+
+**Post-Graduate Diploma**
+- Java/J2EE Development - FIAP (São Paulo, Brazil)
+
+**Bachelor of Sciences**
+- Biology and Mathematics Education (1995-1998)
+- Completed while working full-time at Military Police
+
+**Self-Taught Journey (1993-present):**
+- Started age 19 seeing green screen terminal at military police
+- Traveled 330km from Ponte Nova to Belo Horizonte to buy programming books
+- Self-taught: C/C++, Delphi, Clipper, dBase, Assembly, Linux
+- Built first PC in 1994, learned on work computers before that
+- 200+ C++ books collected over 32 years (pre-internet era)
+- Deep Linux: Linux From Scratch, kernel compilation, Android porting
+
+## 🏆 Career Timeline
+
+
+**2025-2026: Senior Integration Architect** @ Swinburne University  
+MuleSoft platform architecture, API-led connectivity
+
+**2025-2025: Senior Integration Architect** @ Cbus Super  
+MuleSoft platform architecture, API-led connectivity
+
+**2015-2021: Senior Integration Architect** @ City of Melbourne (9 years)  
+Enterprise integration, MuleSoft platform 
+
+**2013-Present: Founder** @ API-led Pty Ltd  
+Integration consulting business, IoT systems (26M+ data points, 99.8% uptime)
+
+**2000-2015:** Various roles in systems integration  
+Hexacta.com (B2B/B2C), Lear Corporation (Y2K mainframe migration), teaching positions
+
+**1993-2000: Military Police & Programmer** @ PMMG (Minas Gerais, Brazil)  
+Developed client-server applications while serving as soldier
+
+## 🎯 Career Goals
+
+Seeking **C++/Java trading development roles** leveraging:
+- 32 years C++ experience (since 1993, self-taught)
+- 17 years trading experience (2008-2025, real money)
+- FPGA hardware acceleration expertise (300+ hours intensive development)
+- Production systems experience (IoT: 26M+ data points)
+
+## 💡 The Unique Combination
+
+What differentiates me:
+
+**Technical Depth:**
+- 32 years professional software development
+- Published technical author (10 books)
+- Self-taught discipline (200+ C++ books, pre-internet era)
+- Production systems (26M+ data points, 99.8% uptime)
+
+**Trading Experience:**
+- 17 years active trading (not paper trading)
+- Built custom C# trading plugins (2008)
+- Lived through 2008 financial crisis trading
+- Understand market microstructure viscerally
+
+**FPGA Skills:**
+- 300+ hours intensive development (2025)
+- 14 complete projects (hardware + software)
+- Real NASDAQ data validation
+- Production patterns: CDC, BRAM, timing closure
+
+**The Story:**
+Not "learning" trading systems - **returning to first principles**. Been interested in C++ + trading since 2002. Java dominated market (82% jobs vs 8% C++) so took rational path while preserving C++ knowledge. Now converging all domains: systems engineering + trading + FPGA.
+
+## 🔗 Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/adilsondias/)
+- 🌐 [Website - dias.net.au](https://dias.net.au)
+- 🌐 [Website - api-led.com.au](https://api-led.com.au)
+- 💻 [GitHub](https://github.com/adilsondias-engineer)
+
+## 📌 Featured Repository
+
+### [fpga-trading-systems](https://github.com/adilsondias-engineer/fpga-trading-systems)
+**300+ hours development, 14 complete projects**
+
+- Sub-5μs FPGA wire-to-BBO latency
+- 0.46μs C++ gateway (RT-optimized)
+- Real NASDAQ ITCH 5.0 data processing
+- Full-stack: Hardware → Gateway → Applications
+- Complete documentation: architecture, benchmarks, lessons learned
+
 ---
 
-## 🔥 Featured Projects
+## 💭 Philosophy
 
-### FPGA Hardware Acceleration Portfolio
+*"Why complicate if you can simplify"*
 
-**[fpga-trading-systems](https://github.com/adilsondias/fpga-trading-systems)** - Systematic progression toward trading systems development
-
-**Completed Projects:**
-1. **LED Counter**: Binary counter with clock division (fundamentals)
-2. **Button Debouncer**: Mechanical switch debouncing with metastability protection
-3. **Rotary Encoder**: Quadrature decoder with FIFO buffering
-4. **UART Echo**: Full-duplex serial communication at 115200 baud
-5. **UART Transmitter**: Binary protocol parsing (trading-style message framing)
-6. **Ethernet MII Receiver** (Current): MAC frame parsing, clock domain crossing, PHY interface
-
-**Technologies**: VHDL, Xilinx Vivado, Arty A7-100T FPGA, Python (testbenches), Wireshark
-
-**Next Steps**: UDP parsing, ITCH protocol parser, hardware order book implementation
+My approach to systems problems - whether enterprise integration, trading systems, or hardware acceleration.
 
 ---
 
-### Solar Energy Monitoring Platform
+**Currently Seeking:** C++/Java trading development roles  
+**Location:** Melbourne, Victoria, Australia  
+**Availability:** May 2026 (current contract ends) or 2 weeks notice  
+**Can start discussions:** Immediately
 
-3-year production IoT system with distributed microservices architecture
+**The 22-Year Story:** Started learning C++/trading in 2002. Took rational path through Java market (better opportunities). Now converging systems engineering + trading + FPGA. Not career change - **strategic return**.
 
-- **Stack**: Python (pyModbus, MQTT), PHP (EmonCMS), Java (JFreeChart), MySQL
-- **Metrics**: 26M+ data points, 99.8% uptime, $3,550+ value delivered
-- **Architecture**: Event-driven with CQRS pattern, zero-downtime migrations
-- **Trading Relevance**: Real-time data processing, high-availability requirements, time-series data management
-
----
-
-### Environmental Monitoring IoT
-
-Complete IoT platform from ESP32 firmware to cloud dashboards
-
-- **Stack**: ESP32 IDF (C/C++), Python (FastAPI), MQTT, WebSocket, PHP
-- **Metrics**: 14M+ readings, 99.7% uptime, 4 sensors (pH, temp, TDS, salinity)
-- **Trading Relevance**: Low-latency data acquisition, sensor fusion, alert systems
-- **Impact**: Prevented livestock loss through 24/7 monitoring and automated alerts
-
----
-
-### Custom Hardware Projects
-
-**Embedded Systems & PCB Design:**
-- **AM/FM Radio**: Complete design with STM32, I2C/UART display, antenna design
-- **RFID Pet System**: Custom PCB with ESP32, RC522 reader, 100% accuracy
-- **ML Pet Recognition**: TensorFlow Lite on ESP32-CAM for edge AI inference
-- **Home Automation**: Garage controller, pet door automation—custom PCBs + firmware
-
-**Skills Demonstrated**: Circuit design, firmware development, protocol implementation, real-time constraints
-
----
-
-### Enterprise Integration Experience
-
-**9 years at City of Melbourne** - Architected comprehensive integration framework
-
-- **Stack**: Kubernetes, Docker, AWS, Apache ActiveMQ, OAuth 2.0, Salesforce, SAP
-- **Scale**: 45+ systems integrated, 50+ APIs, 400K+ annual users
-- **Impact**: Reduced deployment from 3 weeks to 2 days, $80K annual savings
-- **Transferable Skills**: Distributed systems, message queuing, high-throughput architectures
-
----
-
-## 📈 Trading Background
-
-**Active Trader** (2020-Present)
-- 5 years trading S&P 500 E-mini futures and Nasdaq futures
-- Understanding of order flow, market microstructure, and liquidity dynamics
-- Real-world experience with execution quality, latency sensitivity, and market data feeds
-- Combines trader's perspective with engineer's implementation capabilities
-
-This unique combination of active trading experience and deep technical expertise provides insights that pure engineering backgrounds lack—I understand what traders need because I am one.
-
----
-
-## 📝 Published Works
-
-**Technical Books (1999-2001)**
-- Delphi, C++ Builder, MySQL, WAP, WMLScript, Kylix
-- Published by Editora Ciência Moderna, Brazil
-
-**Teaching & Training**
-- Sun Microsystems Train-The-Trainers (T3) certified
-- Trained hundreds of engineers at TAM Airlines, VASP Airlines, IBPINet
-
-**Game Development**
-- Published mobile games: Invasion Defender, Clever Bunny
-- Technologies: C/C++, C#, Unity, Cocos2D
-
----
-
-## 🎓 Certifications
-
-**Trading Systems Relevant:**
-- MuleSoft Platform Architect (distributed systems)
-- IBM WebSphere Process Server (enterprise messaging)
-- Sun Certified Java Programmer (SCJP)
-
-**Currently Pursuing:**
-- Certified Kubernetes Administrator (CKA)
-
-**Total**: 33 professional certifications across systems architecture, integration, and development
-
----
-
-## 📫 Let's Connect
-
-**Website**: [dias.net.au](https://dias.net.au)  
-**Company**: [api-led.com.au](https://api-led.com.au)  
-**LinkedIn**: [linkedin.com/in/adilsondias](https://linkedin.com/in/adilsondias)  
-**Location**: Melbourne, Victoria, Australia
-
----
-
-## 💡 What I'm Building
-
-- 🔧 **FPGA Trading Systems**: Market data parsers, protocol handlers, hardware order books
-- ⚡ **Low-Latency C++**: Multithreading, lock-free structures, real-time processing
-- 📊 **Trading Infrastructure**: Feed handlers, order management, risk systems
-- 🎯 **Hardware Acceleration**: FPGA-based packet processing and protocol parsing
-
----
-
-## 🎯 Career Objective
-
-Seeking **C++/Java trading systems developer roles** at elite trading firms (Citadel Securities, Jane Street, IMC Trading, Optiver, Tower Research) where I can leverage my unique combination of:
-
-- 32 years systems engineering experience
-- 5 years active futures trading background
-- FPGA hardware acceleration skills
-- Low-latency C++ expertise
-- Enterprise-scale system reliability experience
-
-**Why my background matters**: Most trading engineers learn markets from textbooks. I learned them with real capital at risk. Most traders can't build production systems. I've built systems processing 26M+ data points with 99.8% uptime. This combination of trader insight and engineering depth creates unique value for trading technology teams.
-
----
-
-**"In 1993, I saw a computer and decided to learn. In 2020, I saw the markets and decided to understand them. Now I build the systems that power both."**
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=adilsondias&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=adilsondias-engineer&color=brightgreen)
