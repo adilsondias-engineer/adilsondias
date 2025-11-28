@@ -12,7 +12,8 @@ Senior Integration Architect with **32 years of IT experience** (since 1993), co
 - **1993:** Started as self-taught programmer at age 19 (Military Police, Ponte Nova, Brazil)
 - **1999-2001:** Published 10 technical books (Delphi, C++ Builder, MySQL, Linux)
 - **2008:** Active trading during financial crisis (DT Pro platform, built C# plugins)
-- **2025:** Completed intensive FPGA trading systems portfolio (300+ hours, 14 projects)
+- **2017-2018:** Built custom 6-GPU Ethereum mining rig (hardware optimization, profitability analysis)
+- **2025:** Completed intensive FPGA trading systems portfolio (300+ hours, 18 projects)
 
 **Current:** Senior Integration Architect @ Swinburne University (contract through May 2026)  
 **Founded:** API-led Pty Ltd (2013) - Integration consulting business
@@ -34,20 +35,29 @@ FPGA Hardware (VHDL) → C++ Gateway → Multi-Protocol Distribution
    Order Book                          ESP32    MAUI
 ```
 
-### Key Achievements
+### Complete Portfolio (18 Projects)
 
-**Hardware Layer (FPGA - Projects 6-8, 13):**
+**Foundation Projects (1-5):**
+- LED Counter, Button Debouncer, Rotary Encoder, Frequency Generator, UART Transceiver
+
+**Core Trading Infrastructure (6-8, 13):**
 - ✅ UDP/IP Network Stack (< 2 μs wire-to-parsed, 100% reliability)
 - ✅ NASDAQ ITCH 5.0 Parser (9 message types, symbol filtering)
 - ✅ Hardware Order Book (120-170 ns order processing, 8 symbols)
 - ✅ UDP BBO Transmitter (real-time distribution via MII TX)
 
-**Application Layer (Projects 9-12, 14):**
+**Application Layer (9-12, 14):**
 - ✅ C++ Gateway UART (10.67 μs avg) → UDP (2.09 μs) = 5.1x faster
 - ✅ RT Optimization (SCHED_FIFO + CPU isolation): 0.46 μs optimal
 - ✅ Java Desktop Terminal (JavaFX with real-time charts)
 - ✅ ESP32 IoT Display (Arduino, TFT, MQTT feed)
 - ✅ Mobile App (.NET MAUI for Android/iOS/Windows)
+
+**Advanced Systems (15-18):**
+- ✅ Python UDP Gateway (database integration, MySQL connector)
+- ✅ React Web Dashboard (real-time BBO visualization)
+- ✅ Prometheus Metrics (system monitoring, Grafana integration)
+- ✅ Docker Orchestration (complete infrastructure deployment)
 
 ### Performance Metrics (Hardware-Verified)
 
@@ -57,6 +67,7 @@ FPGA Hardware (VHDL) → C++ Gateway → Multi-Protocol Distribution
 | Gateway (UART) | 10.67 μs | Baseline measurement |
 | Gateway (UDP) | 2.09 μs | 5.1x improvement |
 | Gateway (RT) | 0.46 μs | Multi-core isolation |
+| E2E System | < 150 μs | FPGA → Database |
 
 **Test Data:** Validated with authentic NASDAQ ITCH 5.0 data
 - Source: 12302019.NASDAQ_ITCH50 (Dec 30, 2019 trading day)
@@ -84,6 +95,9 @@ FPGA Hardware (VHDL) → C++ Gateway → Multi-Protocol Distribution
 - Binary protocol design (big-endian, fixed-point, UDP multicast)
 - Multi-protocol distribution (TCP/MQTT/Kafka)
 - Cross-platform development (Desktop/Mobile/IoT)
+- Database integration (MySQL connector, cursor optimization)
+- Web technologies (React, WebSocket, REST APIs)
+- Infrastructure (Docker, Prometheus, Grafana)
 
 ## 💻 Technical Background
 
@@ -91,8 +105,9 @@ FPGA Hardware (VHDL) → C++ Gateway → Multi-Protocol Distribution
 - **C++:** Since 1993 (32 years) - 200+ books collected, self-taught
 - **Java:** Since 2000 (24 years) - J2EE, enterprise applications
 - **Python:** 10+ years - automation, data processing, testing
-- **VHDL:** 2025 (1 month intensive) - 300+ hours, 14 projects
+- **VHDL:** 2025 (intensive) - 300+ hours, 18 projects
 - **C#:** DT Pro trading plugins (2008), .NET applications
+- **JavaScript/TypeScript:** React, Node.js, modern web development
 
 ### FPGA & Hardware
 - **Platform:** Xilinx Arty A7-100T (Artix-7 FPGA)
@@ -106,7 +121,8 @@ FPGA Hardware (VHDL) → C++ Gateway → Multi-Protocol Distribution
 - **Markets:** S&P 500, Nasdaq futures
 - **Experience:** DT Pro platform, built C# trading plugins
 - **2008 Crisis:** Real money trading during volatile markets
-- **Domain Knowledge:** Order flow, market microstructure, spread dynamics
+- **Crypto Mining:** 2017-2018 - Built custom 6-GPU mining rig (Ethereum), optimized for profitability
+- **Domain Knowledge:** Order flow, market microstructure, spread dynamics, cryptocurrency markets
 
 ### Professional Certifications
 - MuleSoft Platform Architect
@@ -148,7 +164,6 @@ Editora Ciência Moderna
 
 ## 🏆 Career Timeline
 
-
 **2025-2026: Senior Integration Architect** @ Swinburne University  
 MuleSoft platform architecture, API-led connectivity
 
@@ -174,6 +189,7 @@ Seeking **C++/Java trading development roles** leveraging:
 - 17 years trading experience (2008-2025, real money)
 - FPGA hardware acceleration expertise (300+ hours intensive development)
 - Production systems experience (IoT: 26M+ data points)
+- Full-stack trading infrastructure (FPGA → Database → Web)
 
 ## 💡 The Unique Combination
 
@@ -189,16 +205,24 @@ What differentiates me:
 - 17 years active trading (not paper trading)
 - Built custom C# trading plugins (2008)
 - Lived through 2008 financial crisis trading
+- Custom 6-GPU mining rig (2017-2018) - hardware optimization
 - Understand market microstructure viscerally
 
 **FPGA Skills:**
 - 300+ hours intensive development (2025)
-- 14 complete projects (hardware + software)
+- 18 complete projects (hardware + software + infrastructure)
 - Real NASDAQ data validation
 - Production patterns: CDC, BRAM, timing closure
 
+**Full-Stack Capability:**
+- Hardware acceleration (FPGA)
+- Systems programming (C++, Java)
+- Database integration (MySQL, optimization)
+- Web technologies (React, REST APIs)
+- Infrastructure (Docker, monitoring)
+
 **The Story:**
-Not "learning" trading systems - **returning to first principles**. Been interested in C++ + trading since 2002. Java dominated market (82% jobs vs 8% C++) so took rational path while preserving C++ knowledge. Now converging all domains: systems engineering + trading + FPGA.
+Not "learning" trading systems - **returning to first principles**. Been interested in C++ + trading since 2002. Java dominated market (82% jobs vs 8% C++) so took rational path while preserving C++ knowledge. Now converging all domains: systems engineering + trading + FPGA + infrastructure.
 
 ## 🔗 Connect
 
@@ -210,12 +234,13 @@ Not "learning" trading systems - **returning to first principles**. Been interes
 ## 📌 Featured Repository
 
 ### [fpga-trading-systems](https://github.com/adilsondias-engineer/fpga-trading-systems)
-**300+ hours development, 14 complete projects**
+**300+ hours development, 18 complete projects**
 
 - Sub-5μs FPGA wire-to-BBO latency
 - 0.46μs C++ gateway (RT-optimized)
 - Real NASDAQ ITCH 5.0 data processing
-- Full-stack: Hardware → Gateway → Applications
+- Full-stack: Hardware → Gateway → Database → Web
+- Complete infrastructure: Docker, Prometheus, Grafana
 - Complete documentation: architecture, benchmarks, lessons learned
 
 ---
@@ -233,6 +258,6 @@ My approach to systems problems - whether enterprise integration, trading system
 **Availability:** May 2026 (current contract ends) or 2 weeks notice  
 **Can start discussions:** Immediately
 
-**The 22-Year Story:** Started learning C++/trading in 2002. Took rational path through Java market (better opportunities). Now converging systems engineering + trading + FPGA. Not career change - **strategic return**.
+**The 22-Year Story:** Started learning C++/trading in 2002. Took rational path through Java market (better opportunities). Now converging systems engineering + trading + FPGA + infrastructure. Not career change - **strategic return**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adilsondias-engineer&color=brightgreen)
