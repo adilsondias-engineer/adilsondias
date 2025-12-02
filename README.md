@@ -228,7 +228,6 @@ Not "learning" trading systems - **returning to first principles**. Been interes
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/adilsondias/)
 - 🌐 [Website - dias.net.au](https://dias.net.au)
-- 🌐 [Website - api-led.com.au](https://api-led.com.au)
 - 💻 [GitHub](https://github.com/adilsondias-engineer)
 
 ## 📌 Featured Repository
