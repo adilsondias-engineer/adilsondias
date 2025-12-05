@@ -12,7 +12,7 @@ Senior Integration Architect with **32 years of IT experience** (since 1993), co
 - **1993:** Started as self-taught programmer at age 19 (Military Police, Ponte Nova, Brazil)
 - **1999-2001:** Published 10 technical books (Delphi, C++ Builder, MySQL, Linux)
 - **2008:** Active trading during financial crisis (DT Pro platform, built C# plugins)
-- **2017-2018:** Built custom 6-GPU Ethereum mining rig (hardware optimization, profitability analysis)
+- **2017-2018:** Built custom 45-GPU Ethereum mining rig (hardware optimization, profitability analysis)
 - **2025:** Completed intensive FPGA trading systems portfolio (300+ hours, 18 projects)
 
 **Current:** Senior Integration Architect @ Swinburne University (contract through May 2026)  
@@ -121,7 +121,7 @@ FPGA Hardware (VHDL) → C++ Gateway → Multi-Protocol Distribution
 - **Markets:** S&P 500, Nasdaq futures
 - **Experience:** DT Pro platform, built C# trading plugins
 - **2008 Crisis:** Real money trading during volatile markets
-- **Crypto Mining:** 2017-2018 - Built custom 6-GPU mining rig (Ethereum), optimized for profitability
+- **Crypto Mining:** 2017-2018 - Built custom 45-GPU mining rig (Ethereum), optimized for profitability
 - **Domain Knowledge:** Order flow, market microstructure, spread dynamics, cryptocurrency markets
 
 ### Professional Certifications
@@ -205,7 +205,7 @@ What differentiates me:
 - 17 years active trading (not paper trading)
 - Built custom C# trading plugins (2008)
 - Lived through 2008 financial crisis trading
-- Custom 6-GPU mining rig (2017-2018) - hardware optimization
+- Custom 45-GPU mining rig (2017-2018) - hardware optimization
 - Understand market microstructure viscerally
 
 **FPGA Skills:**
